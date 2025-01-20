@@ -14,4 +14,4 @@ Cloud Top Page
 [![corporate1.png](https://i.postimg.cc/zv253gVp/corporate1.png)](https://postimg.cc/q6KW5gcC)
 
 Whole Page
-<img src="https://i.postimg.cc/bvfPG8wX/corporate2.png" style="width: 100%!important" />
+<img src="https://i.ibb.co/6PsTdLq/corporate2.png" style="width: 100%!important" />
